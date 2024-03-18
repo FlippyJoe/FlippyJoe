@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @FlippyJoe...If it`s too long just Joe ;)
+- 👋 Hi, I’m @FlippyJoe...If it`s too long just Joe...Flippy ;)
 - 👀 I’m interested in analytics and doing my best to get into the field.
 - 🌱 I’m currently preparing fof my PL-300, I learn super useful things every day.
 - 📫 The easiest way to reach me is email: jkohulak@flipthedata.onmicrosoft.com
